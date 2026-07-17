@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "heart-files.kicad_prl",
+    "filename": "keyboard.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
